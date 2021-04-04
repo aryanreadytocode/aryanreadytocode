@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryanreadytocode
 - 👀 I’m interested in coding and love to solve coding challenges
 - 🌱 I’m currently working as software developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for the freelancing project
 - 📫 How to reach me at raj.and.dev.94@gmail.com
 
 <!---
