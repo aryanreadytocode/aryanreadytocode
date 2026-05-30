@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @aryanreadytocode
-- 👀 I’m interested in coding and love to solve coding challenges
-- 🌱 I’m currently working as software developer
-- 💞️ I’m looking for the freelancing project
--    I''m learning data structure and algo
-- 📫 How to reach me at raj.and.dev.94@gmail.com
+👋 Hi, I'm Raj Aryan
+
+⚡ Full-Stack Software Engineer | Android • Backend • Web • AI Enthusiast
+
+With 9+ years of experience, I build scalable applications, solve challenging problems, and create technology that delivers real business value.
+
+🔹 Passionate about System Design, Data Structures & Algorithms, and AI-driven development.
+🔹 Always learning, always building, always improving.
+🔹 Open to freelance projects, consulting, and innovative collaborations.
+
+📫 Let's connect: raj.and.dev.94@gmail.com
 
 <!---
 aryanreadytocode/aryanreadytocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
